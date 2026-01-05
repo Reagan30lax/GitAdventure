@@ -1,2 +1,0 @@
-This file is meant to be deleted.
-Add temp.txt
