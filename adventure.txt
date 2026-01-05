@@ -1,2 +1,1 @@
-Starting my Git journey.
-Add journey.txt
+My journey evolves into an adventure with Git.
